@@ -12,7 +12,7 @@ TagManager:
   - Water
   - UI
   - Platform
-  - 
+  - Platform Texture
   - 
   - 
   - 
@@ -40,6 +40,9 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: another
+    uniqueID: 3099084323
     locked: 0
   m_RenderingLayers:
   - Default
