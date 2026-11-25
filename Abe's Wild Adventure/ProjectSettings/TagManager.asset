@@ -41,8 +41,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: another
+  - name: BG Layer 1
     uniqueID: 3099084323
+    locked: 0
+  - name: BG Layer 2
+    uniqueID: 3206039927
+    locked: 0
+  - name: BG Layer 3
+    uniqueID: 2795434943
     locked: 0
   m_RenderingLayers:
   - Default
